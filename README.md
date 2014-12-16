@@ -1,5 +1,6 @@
-HTML5 Muffin chocchip steps
+Vidi (Увидел)
 ============================
+Быстрый старт jekyll сайта
 
 Run bundle install
 
