@@ -1,3 +1,28 @@
-@import "boot/bootstrap.scss";
-@import "cms/color-me-sass.scss";
-@import "custom.scss"; //Custom Style
+/* Импортируем bourbon, neat и bitters 
+---------------------------------------*/
+
+ @import "libs/bourbon/bourbon";
+ @import "base/base";
+ @import "libs/neat/neat";
+
+/*-------------------------------------*/
+
+
+
+/* Импортируем цвета
+-------------------------------------- */
+
+// @import "libs/colors/color-me-sass";
+
+/*-------------------------------------*/
+
+
+
+/* Импортируем блоки
+-------------------------------------- */
+
+ @import "blocks/blocks";
+
+/*-------------------------------------*/
+
+

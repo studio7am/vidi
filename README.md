@@ -1,11 +1,23 @@
 Vidi (Увидел)
 ============================
-Быстрый старт jekyll сайта
+Быстрый старт сайта на jekyll + sass
 
-Run bundle install
+Запуск
 
-	bundle install
+      $ bundle install
+      $ jekyll serve
+      
+Разработка
 
-Run jekyll
+      $ watch.sh
+      
+ 
+История изменений
 
-	jekyll
+      19.12.2014
+      
+      1. Обновили структуру каталога dev. 
+
+
+
+
